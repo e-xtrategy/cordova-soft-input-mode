@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com-vertex-window-soft-input-mode"
+    id="cordova-window-soft-input-mode"
     version="1.0.0">
-    <name>windowSoftInputMode</name>
+    <name>cordova-window-soft-input-mode</name>
     <description>Plugin to change windowSoftInputMode in android from javascript</description>
     <license>Apache 2.0</license>
     <keywords>cordova,windowSoftManager</keywords>
